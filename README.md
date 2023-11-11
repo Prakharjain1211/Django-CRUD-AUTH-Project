@@ -97,6 +97,10 @@ The project structure is organized as follows:
 - sqlparse==0.3.0
 - python==3.73
 
+## Screenshots of the Project
+- Home Page
+![Home Page](https://github.com/Prakharjain1211/Django-CRUD-AUTH-Project/assets/88723250/55ba8e35-2a03-4ab6-8198-f5f8efecdb9a)
+
 ## Contributing
 
 Feel free to contribute to this project by opening issues or pull requests on the GitHub repository.
